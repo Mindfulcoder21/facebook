@@ -1,0 +1,23 @@
+.container{
+    background-color: #ffff;
+    width:100%;
+    height:100%;
+
+}
+.center{
+    background-color: blanchedalmond;
+    width: 445px;
+    height: 459px;
+    margin-top: 221px;
+    margin-left: 527px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+}
+.logo{
+    text-align: center;
+    padding-left: 200px;
+    padding-top: 50px;
+    width: 80px;
+    height: 40px;
+}
